@@ -1,2 +1,2 @@
-# collision-2
-collision with two sprites
+# collisionAlgorithm
+Algorithm to detect collision between two objects
